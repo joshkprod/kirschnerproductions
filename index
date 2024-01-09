@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Photography</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Include your CSS file here -->
+</head>
+<body>
+    <header>
+        <h1>Your Photography</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Gallery</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="gallery">
+        <!-- Add your image tags here -->
+        <img src="image1.jpg" alt="Photo 1">
+        <img src="image2.jpg" alt="Photo 2">
+        <img src="image3.jpg" alt="Photo 3">
+        <!-- Add more images as needed -->
+    </div>
+
+    <div class="contact-form">
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+</body>
+</html>
