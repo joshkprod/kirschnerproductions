@@ -24,7 +24,7 @@ Highlight the best features of your products with high-quality images that make 
 
 ## Portfolio
 
-Check out my [portfolio](link-to-portfolio) to see examples of my work. Each photograph is a testament to my dedication to excellence and creativity.
+Check out my [portfolio](main.html) to see examples of my work. Each photograph is a testament to my dedication to excellence and creativity.
 
 ## Contact Me
 
